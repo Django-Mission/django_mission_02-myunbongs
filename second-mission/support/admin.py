@@ -15,6 +15,7 @@ class AnswerInline(admin.TabularInline):
     model = Answer
     verbose_name = '답변'
     verbose_name_plural = '답변'
+    readonly_fields = ('created_at', 'updated_at',)
 
 @admin.register(Inquiry)
 class InquiryModelAdmin(admin.ModelAdmin):
