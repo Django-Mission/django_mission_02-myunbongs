@@ -1,6 +1,5 @@
 # Basic Mission
 
----
 
 <aside>
 💡 사용자와 소통창구, 고객센터 앱과 FAQ 모델 만들기
@@ -23,9 +22,16 @@
     - 모델명 : `Faq`
     - 필드 : 질문, 카테고리, 답변, 생성자, 생성일시, 최종 수정자, 최종 수정일시
 
-# Advanced Mission
+
+### 동작 화면
+
+https://user-images.githubusercontent.com/62318430/164023317-25278948-6795-40ef-878a-5b1597c5db84.mov
 
 ---
+
+
+# Advanced Mission
+
 
 고객센터 1:1 문의, 답글 모델 만들기
 
@@ -45,3 +51,11 @@
     - 답변 모델 필드 : 답변 내용, 참조 문의글, 생성자, 생성 일시, 최종 수정자, 최종 수정 일시
 - 문의와 답변은 1 - N 관계 구성
     - 문의 1 - 답변 N
+
+### 동작 화면 
+
+https://user-images.githubusercontent.com/62318430/164023487-0efae27f-eeff-4847-88e4-a6eae126a7da.mov
+
+
+
+---
