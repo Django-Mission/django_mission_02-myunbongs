@@ -26,6 +26,7 @@
 ### 동작 화면
 
 https://user-images.githubusercontent.com/62318430/164023317-25278948-6795-40ef-878a-5b1597c5db84.mov
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/62318430/164025623-ceb7acc5-2a28-453d-9b8a-877093b01230.png">
 
 
@@ -57,6 +58,7 @@ https://user-images.githubusercontent.com/62318430/164023317-25278948-6795-40ef-
 ### 동작 화면 
 
 https://user-images.githubusercontent.com/62318430/164023487-0efae27f-eeff-4847-88e4-a6eae126a7da.mov
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/62318430/164025430-d88f6b15-3baf-4e11-961a-3e0ec6e67baa.png">
 
 
